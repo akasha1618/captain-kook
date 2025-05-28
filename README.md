@@ -15,8 +15,7 @@ This is the landing page for Captain Kook - a smart meal planning app that helps
 - Font Awesome Icons
 - Google Fonts (Poppins)
 
-## Live Demo
-Visit the live site at: [https://yourusername.github.io/captain-kook](https://yourusername.github.io/captain-kook)
+
 
 ## Local Development
 1. Clone the repository
